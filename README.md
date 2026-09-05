@@ -48,8 +48,8 @@
 <h2 align="left">Git Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasolvr8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=50fa7b" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolvr8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=50fa7b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrque&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=50fa7b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrque&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=50fa7b" />
 </div>
 
 ---
